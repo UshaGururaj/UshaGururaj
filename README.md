@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UshaGururaj
 - 👀 I’m interested in full stack Web development
-- 🌱 I’m currently learning Web development at Neog'22
+<!-- - 🌱 I’m currently learning Web development at Neog'22 -->
 - 📫 How to reach me?  [Twitter](https://twitter.com/USHABG1)
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
